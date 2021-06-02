@@ -35,7 +35,7 @@ In the coming days, I would like to explore how the recommendations implemented 
 # Standout Section
 
 Apart from the instructions in the starter notebook, I was able to:
-- use the Datetime function to create a seperate weekday column and the unique values were then used in countplot to evaluate the sales performance on different days of the week.
+- Used the Datetime function to create a seperate weekday column and the unique values were then used in countplot to evaluate the sales performance on different days of the week.
 - I was able to use dropcolumn and range commands to remove some stray columns in my data.
 
 # Executive Summary.
